@@ -2,7 +2,7 @@
 
 ## 预览，已上架插件中心
 
-![Introduction](D:\front_end_learn\其他技术\images\JavaWeb\Introduction.png)
+![Introduction](https://github.com/JohuMid/utools_npm_search/blob/master/Introduction.png)
 
 ## 回车或点击跳转到对应包界面
 
