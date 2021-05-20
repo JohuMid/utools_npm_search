@@ -1,0 +1,21 @@
+{
+  "pluginName": "npm包实时搜索",
+  "description": "npm包实时搜索",
+  "version": "1.0.0",
+  "author": "johu",
+  "preload": "preload.js",
+  "logo": "npmBlack.png",
+  "features": [
+    {
+      "code": "npm_search",
+      "explain": "npm包实时搜索",
+      "cmds": [
+        "npm",
+        {
+          "type": "regex",
+          "label": "文本正则匹配"
+        }
+      ]
+    }
+  ]
+}
