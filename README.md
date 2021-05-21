@@ -2,7 +2,7 @@
 
 ## 预览，已上架插件中心
 
-![Introduction](https://github.com/JohuMid/utools_npm_search/blob/master/Introduction.png)
+![Introduction](https://raw.githubusercontent.com/JohuMid/utools_npm_search/master/Introduction.png)
 
 ## 回车或点击跳转到对应包界面
 
